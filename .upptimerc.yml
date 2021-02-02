@@ -101,6 +101,7 @@ sites:
       - 200
       - 201
       - 404
+      - 403
   - name : Monika 测试论坛
     url: https://test.monika.love/
     expectedStatusCodes:

@@ -275,19 +275,17 @@
     "icon": "https://favicons.githubusercontent.com/onedrive.monika.love",
     "slug": "monika-one-drive",
     "status": "up",
-    "uptime": "2.72%",
-    "uptimeDay": "2.72%",
-    "uptimeWeek": "2.72%",
-    "uptimeMonth": "2.72%",
-    "uptimeYear": "2.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 654,
     "timeDay": 654,
     "timeWeek": 654,
     "timeMonth": 654,
     "timeYear": 654,
-    "dailyMinutesDown": {
-      "2021-02-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monika 测试论坛",

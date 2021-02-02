@@ -32,7 +32,7 @@ sites:
     url: https://api.monika.love/mod_store.json
   - name : Natuski 主站
     url: https://natsuki.love
-  - name : [数据库错误]Yuri 主站
+  - name : 【数据库错误】Yuri 主站
     url: https://yuri.fit/
   - name : Monika OneDrive反代服务
     url: https://onedrive.monika.love/

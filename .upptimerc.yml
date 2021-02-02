@@ -46,7 +46,7 @@ sites:
     url: https://mirrors.ddlc.tech/
   - name : DDLC镜像（Vercel）
     url: https://mirrors.ddlc.wiki/
-  - name : [MTR]MTR.PUB OutLook 365
+  - name : 【MTR】MTR.PUB OutLook 365
     url: http://autodiscover.mtr.pub
 
 

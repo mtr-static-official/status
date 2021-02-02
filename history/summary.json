@@ -77,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/update.mas.monika.love",
     "slug": "monika-mas",
     "status": "up",
-    "uptime": "8.97%",
-    "uptimeDay": "8.97%",
-    "uptimeWeek": "8.97%",
-    "uptimeMonth": "8.97%",
-    "uptimeYear": "8.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1878,
     "timeDay": 1878,
     "timeWeek": 1878,
     "timeMonth": 1878,
     "timeYear": 1878,
-    "dailyMinutesDown": {
-      "2021-02-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monika 论坛",
@@ -223,19 +221,17 @@
     "icon": "https://favicons.githubusercontent.com/api.monika.love",
     "slug": "monika-mod-manager-china-mods-api",
     "status": "up",
-    "uptime": "4.19%",
-    "uptimeDay": "4.19%",
-    "uptimeWeek": "4.19%",
-    "uptimeMonth": "4.19%",
-    "uptimeYear": "4.19%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1845,
     "timeDay": 1845,
     "timeWeek": 1845,
     "timeMonth": 1845,
     "timeYear": 1845,
-    "dailyMinutesDown": {
-      "2021-02-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Natuski 主站",
@@ -261,19 +257,17 @@
     "icon": "https://favicons.githubusercontent.com/yuri.fit",
     "slug": "yuri",
     "status": "up",
-    "uptime": "3.35%",
-    "uptimeDay": "3.35%",
-    "uptimeWeek": "3.35%",
-    "uptimeMonth": "3.35%",
-    "uptimeYear": "3.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 201,
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2021-02-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monika OneDrive反代服务",
@@ -281,11 +275,11 @@
     "icon": "https://favicons.githubusercontent.com/onedrive.monika.love",
     "slug": "monika-one-drive",
     "status": "down",
-    "uptime": "0.29%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "0.29%",
-    "uptimeMonth": "0.29%",
-    "uptimeYear": "0.29%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 799,
     "timeDay": 799,
     "timeWeek": 799,

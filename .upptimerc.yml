@@ -6,48 +6,137 @@ repo: status # Your GitHub repository name
 sites:
   - name: Monika主站
     url: https://monika.love
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 网盘
     url: https://cloud.monika.love
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 下载服务
     url: https://dl.monika.love
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika CDN
     url: https://cdn.monika.love
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 第三方MAS更新源
     url: https://update.mas.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 论坛
     url: https://forum.monika.love
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 机房
     url: http://cn-zz1.rvh2.rainyun.com/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 网盘（应急访问状态）
     url: http://124.132.136.18/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : DDLC Wiki
     url: https://wiki.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 主站-重定向
     url: https://next.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Doki Doki Mod Manager China Mods Site
     url: https://mods.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 捐助计划
     url: https://donate.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika Mod Manager China Mods API
     url: https://api.monika.love/mod_store.json
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Natuski 主站
     url: https://natsuki.love
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : 【数据库错误】Yuri 主站
     url: https://yuri.fit/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      -503
   - name : Monika OneDrive反代服务
     url: https://onedrive.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Monika 测试论坛
     url: https://test.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : Sayori主站
     url: https://sayori.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : DDLCTech 论坛
     url: https://forum.ddlc.tech/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : DDLC 镜像（Coding）
     url: https://mirrors.ddlc.tech/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : DDLC镜像（Vercel）
     url: https://mirrors.ddlc.wiki/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name : 【MTR】MTR.PUB OutLook 365
     url: http://autodiscover.mtr.pub
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 
 status-website:

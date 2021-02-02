@@ -58,18 +58,20 @@
     "url": "https://cdn.monika.love",
     "icon": "https://favicons.githubusercontent.com/cdn.monika.love",
     "slug": "monika-cdn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 2153,
     "timeDay": 2153,
     "timeWeek": 2153,
     "timeMonth": 2153,
     "timeYear": 2153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-02": 1
+    }
   },
   {
     "name": "Monika 第三方MAS更新源",
@@ -77,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/update.mas.monika.love",
     "slug": "monika-mas",
     "status": "up",
-    "uptime": "87.92%",
-    "uptimeDay": "87.92%",
-    "uptimeWeek": "87.92%",
-    "uptimeMonth": "87.92%",
-    "uptimeYear": "87.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2252,
     "timeDay": 2252,
     "timeWeek": 2252,
     "timeMonth": 2252,
     "timeYear": 2252,
-    "dailyMinutesDown": {
-      "2021-02-02": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monika 论坛",

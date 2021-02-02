@@ -94,7 +94,7 @@ sites:
       - 200
       - 201
       - 404
-      -503
+      - 503
   - name : Monika OneDrive反代服务
     url: https://onedrive.monika.love/
     expectedStatusCodes:

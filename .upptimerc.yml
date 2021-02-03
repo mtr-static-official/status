@@ -138,6 +138,18 @@ sites:
       - 200
       - 201
       - 404
+   - name : DDLC PrivateBin服务（地址B）
+    url: https://dis.monika.love/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+   - name : DDLC PrivateBin服务（地址A）
+    url: https://s.ddlc.top/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 
 status-website:

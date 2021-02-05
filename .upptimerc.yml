@@ -144,6 +144,24 @@ sites:
       - 200
       - 201
       - 404
+  - name : DDLC 社区图床
+    url: https://img.ddlc.top
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name : DDLC 中文站（主节点）
+    url: https://ddlc.top
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name : DDLC 中文站（备用）
+    url: https://cn.ddlc.top
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 
 

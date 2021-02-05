@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/monika.love",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Monika 网盘",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/cloud.monika.love",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Monika 下载服务",
@@ -41,17 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/dl.monika.love",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Monika CDN",
@@ -59,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/cdn.monika.love",
     "slug": "monika-cdn",
     "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "96.83%",
+    "uptime": "97.02%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.02%",
     "time": 1830,
     "timeDay": 1577,
     "timeWeek": 1830,
     "timeMonth": 1830,
     "timeYear": 1830,
     "dailyMinutesDown": {
-      "2021-02-05": 26,
+      "2021-02-05": 22,
       "2021-02-04": 28,
       "2021-02-03": 39,
       "2021-02-02": 47
@@ -82,11 +88,11 @@
     "icon": "https://favicons.githubusercontent.com/update.mas.monika.love",
     "slug": "monika-mas",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.42%",
     "uptimeDay": "98.16%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
     "time": 1753,
     "timeDay": 1251,
     "timeWeek": 1753,
@@ -102,17 +108,19 @@
     "icon": "https://favicons.githubusercontent.com/forum.monika.love",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Monika 机房",
@@ -120,17 +128,19 @@
     "icon": "https://favicons.githubusercontent.com/cn-zz1.rvh2.rainyun.com",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Monika 网盘（应急访问状态）",
@@ -138,17 +148,19 @@
     "icon": "https://favicons.githubusercontent.com/124.132.136.18",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "DDLC Wiki",
@@ -174,35 +186,39 @@
     "icon": "https://favicons.githubusercontent.com/next.monika.love",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Doki Doki Mod Manager China Mods Site",
     "url": "https://mods.monika.love/",
     "icon": "https://favicons.githubusercontent.com/mods.monika.love",
     "slug": "doki-doki-mod-manager-china-mods-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2582,
     "timeDay": 1752,
     "timeWeek": 2582,
     "timeMonth": 2582,
     "timeYear": 2582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Monika 捐助计划",
@@ -210,35 +226,39 @@
     "icon": "https://favicons.githubusercontent.com/donate.monika.love",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Monika Mod Manager China Mods API",
     "url": "https://api.monika.love/mod_store.json",
     "icon": "https://favicons.githubusercontent.com/api.monika.love",
     "slug": "monika-mod-manager-china-mods-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1902,
     "timeDay": 1153,
     "timeWeek": 1902,
     "timeMonth": 1902,
     "timeYear": 1902,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Natuski 主站",
@@ -300,17 +320,19 @@
     "icon": "https://favicons.githubusercontent.com/test.monika.love",
     "slug": "monika",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2778,
-    "timeDay": 4091,
+    "timeDay": 3992,
     "timeWeek": 2778,
     "timeMonth": 2778,
     "timeYear": 2778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Sayori主站",
@@ -407,9 +429,9 @@
     "url": "https://s.ddlc.top",
     "icon": "https://favicons.githubusercontent.com/s.ddlc.top",
     "slug": "ddlc-private-bin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -418,6 +440,8 @@
     "timeWeek": 4962,
     "timeMonth": 4962,
     "timeYear": 4962,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   }
 ]

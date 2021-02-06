@@ -1,7 +1,7 @@
-url: https://monika.love
-status: up
-code: 200
-responseTime: 192
-lastUpdated: 2021-02-06T23:56:16.341Z
+url: https://test.monika.love/
+status: down
+code: 502
+responseTime: 426
+lastUpdated: 2021-02-06T23:56:45.501Z
 startTime: Mon Feb 01 2021 13:13:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

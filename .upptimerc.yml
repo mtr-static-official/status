@@ -19,7 +19,6 @@ sites:
   - name : Monika 下载服务
     url: https://dl.monika.love
     expectedStatusCodes:
-@@ -36,34 +28,14 @@ sites:
       - 404
   - name : Monika 论坛
     url: https://forum.monika.love
@@ -54,7 +53,6 @@ sites:
   - name : Doki Doki Mod Manager China Mods Site
     url: https://mods.monika.love/
     expectedStatusCodes:
-@@ -72,22 +44,10 @@ sites:
       - 404
   - name : Monika 捐助计划
     url: https://donate.monika.love/
@@ -77,7 +75,6 @@ sites:
   - name : 【数据库错误】Yuri 主站
     url: https://yuri.fit/
     expectedStatusCodes:
-@@ -104,34 +64,14 @@ sites:
       - 403
   - name : Monika 测试论坛
     url: https://test.monika.love/
@@ -112,7 +109,6 @@ sites:
   - name : 【MTR】MTR.PUB OutLook 365
     url: http://autodiscover.mtr.pub
     expectedStatusCodes:
-@@ -140,28 +80,13 @@ sites:
       - 404
   - name : DDLC PrivateBin服务
     url: https://s.ddlc.top
